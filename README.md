@@ -108,10 +108,10 @@ Includes technolgy, fetures, engineering talent anf ability to scale infrastruct
 Viability - Can this be sustainable business?
 Viability is proven by apps freemium model ( providing premium for free for some period)
 
-https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/Job%20Framework%20for%20PM.png
+![](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/Job%20Framework%20for%20PM.png)
 
 ### SkillSet VS MindSet:
-https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/SkillsetVSMindset.png
+![](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/SkillsetVSMindset.png)
 
 ### What PM should take care of:
 
@@ -130,7 +130,7 @@ https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/SkillsetVSMin
 5. **Adaptable and Ownership over TaskExecution** - When plan fails, own the outcome and adapt
 
 ### Tech to PM Mindset transition:
-https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/TechtoPM.png
+![](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/TechtoPM.png)
 
 ### NOTES:
 
