@@ -32,7 +32,9 @@ The Value Proposition Canvas is a strategic tool used to ensure a product or ser
 is aligned with what customers truly want.  
 It has two key parts: 1. Customer Profile – outlines customer jobs, pains, and gains. 2. Value Map – shows your product’s pain relievers, gain creators, and products/services.  
 The goal is to create a clear fit between what the customer needs and what your product offers.
-![VPC](image-1.png)
+
+![VPC](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/ValuePropositionCanvas.png)
+
 Usecase: Uber eats Problem-Solution Fit:
 
 - Ensure product is addressing real and clearly defined user problem or need
@@ -40,7 +42,8 @@ Usecase: Uber eats Problem-Solution Fit:
 - Ensure suffient user intrest in the solution
 - Iterate these steps to improve to refine the problem and thus the solution (pain-relievers)
   This is an importan precursor to pursuing product-market fit
-  (![VPC usecase](image.png))
+  
+  ![VPC usecase](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/ValuePropositionCanvas%201.png)
 
 ### NOTES:
 
