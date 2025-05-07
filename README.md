@@ -89,3 +89,54 @@ The PO says, “First, perfect the potato filling, then try cheese.”
  The Project Manager ensures the team has what they need & the samosas get delievered
 
 ---
+
+## 05/05 Session - 3
+
+### Job of the Product Manager:
+
+Desirability - Do people want this?
+Desirability signs - Rapid user adoption
+High Engagement Metrices -> daily active, time spent in app
+Social sharing
+
+Feasibilty - Can we build this?
+Includes technolgy, fetures, engineering talent anf ability to scale infrastructure as user grew
+
+Viability - Can this be sustainable business?
+Viability is proven by apps freemium model ( providing premium for free for some period)
+
+### SkillSet VS MindSet
+
+### What PM should take care of:
+
+1. **Customer obsession over Stakeholder management** - Eg. Netflix from DVD-selling in mails to streaming lakhs of content
+
+2. **Bias for Action over Analysis Paralysis** - Eg: Insta launching stories option in 8 months to cunter snapchat
+
+3. **First Princples Thinking over Best Practices copying** - solving probles by starting with most basic, prven facts and building up from there,
+   rather than following what everyone else does.
+   Best practice -> follow what all do
+   Eg: Elon Musk's SpaceX 90% reduced price in rocket launch price by manufacturingusing in-house components and create reusable rockets
+
+4. **Systems Thinking over shotterm execution** - Eg: Airbnb create trust between complete strangers by user govt. ID verification,
+   reviews from both customer and owners and other safty guidelines so they would feel comfortable
+
+5. **Adaptable and Ownership over TaskExecution** - When plan fails, own the outcome and adapt
+
+### Tech to PM Mindset transition:
+
+### NOTES:
+
+Feasibility is about can we build it - do we have the tech, team, and tools?
+Viability is about should we build it - will it make money or support the business long term?
+
+In today’s trend, a product should aim to create real user impact - by solving meaningful problems, driving adoption, improving retention, and delivering measurable value.
+That could mean saving users time, making something easier or more accessible, or unlocking a new habit or behavior.
+The impact should be visible in both user satisfaction and business outcomes like growth, engagement, or revenue.
+
+#### what is user aquisition cost vs lifetime value?
+
+User acquisition cost (CAC) is how much you spend to get one new customer—like ad spend, marketing, and sales costs.
+
+Lifetime value (LTV) is how much revenue you earn from that customer over their entire relationship with your product.
+Ideally, LTV should be much higher than CAC to make the business sustainable.
