@@ -110,11 +110,11 @@ Includes technolgy, fetures, engineering talent anf ability to scale infrastruct
 Viability - Can this be sustainable business?
 Viability is proven by apps freemium model ( providing premium for free for some period)
 
-![JobforPM](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/Job20FrameworkforPM.png)
+![](IMAGES/JobFrameworkforPM.png)
 
 ### SkillSet VS MindSet:
 
-![](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/SkillsetVSMindset.png)
+![](IMAGES/SkillsetVSMindset.png)
 
 ### What PM should take care of:
 
@@ -134,7 +134,7 @@ Viability is proven by apps freemium model ( providing premium for free for some
 
 ### Tech to PM Mindset transition:
 
-![](https://github.com/lakshmir1098/PM_AAI_IITPatna/blob/master/IMAGES/TechtoPM.png)
+![](IMAGES/TechtoPM.png)
 
 ### NOTES:
 
@@ -182,10 +182,10 @@ Double diamond diagram
 
 Problem Space:
 
-![](IMAGES\ProblemSpace-Discover.png) ![](IMAGES\ProblemSpace-Define.png)
+![](IMAGES/ProblemSpace-Discover.png) ![](IMAGES/ProblemSpace-Define.png)
 
 SolutionSpace:
-![](IMAGES\SolutionSpace-Develop.png) ![](IMAGES\SolutionSpace-Deliver.png)
+![](IMAGES/SolutionSpace-Develop.png) ![](IMAGES/SolutionSpace-Deliver.png)
 
 ### Key pitfalls:
 
@@ -197,13 +197,13 @@ SolutionSpace:
 ### Example - Flipkart
 
 Discover:
-![](IMAGES\stage1.png)
+![](IMAGES/stage1.png)
 
 Define:
-![](IMAGES\stage2.png)
+![](IMAGES/stage2.png)
 
 Develop:
-![](IMAGES\stage3.png)
+![](IMAGES/stage3.png)
 
 Deliver:
-![](IMAGES\stage4.png)
+![](IMAGES/stage4.png)
