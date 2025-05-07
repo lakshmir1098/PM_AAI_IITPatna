@@ -93,7 +93,9 @@ The PO says, “First, perfect the potato filling, then try cheese.”
 
 ---
 
-## 05/05 Session - 3
+## 06/05 Session - 3
+
+## High Performance PM Mindset
 
 ### Job of the Product Manager:
 
@@ -149,3 +151,9 @@ User acquisition cost (CAC) is how much you spend to get one new customer—like
 
 Lifetime value (LTV) is how much revenue you earn from that customer over their entire relationship with your product.
 Ideally, LTV should be much higher than CAC to make the business sustainable.
+
+---
+
+## 07/05 Session - 3
+
+## Decision making under ambiguity
