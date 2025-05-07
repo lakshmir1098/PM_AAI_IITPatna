@@ -93,7 +93,7 @@ The PO says, “First, perfect the potato filling, then try cheese.”
 
 ---
 
-## 06/05 Session - 3
+## 06/05 Session - 2
 
 ## High Performance PM Mindset
 
