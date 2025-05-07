@@ -185,7 +185,9 @@ Problem Space:
 ![](IMAGES/ProblemSpace-Discover.png) ![](IMAGES/ProblemSpace-Define.png)
 
 SolutionSpace:
-![](IMAGES/SolutionSpace-Develop.png) ![](IMAGES/SolutionSpace-Deliver.png)
+
+![](IMAGES/SolutionSpace-Develop.png)
+![](IMAGES/SolutionSpace-Deliver.png)
 
 ### Key pitfalls:
 
