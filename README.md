@@ -157,3 +157,53 @@ Ideally, LTV should be much higher than CAC to make the business sustainable.
 ## 07/05 Session - 3
 
 ## Decision making under ambiguity
+
+### What is ambiguity in PM?
+
+- Incomplete or Wrong information
+- Confilicting signals - when different
+  metrices or feed back point are in different direction
+- Uncertain outcome - unpredictable
+- Evolving context - rapdi change in user needs, market condition or technology
+
+**_Im PM, we often make high-impact decisions with only 60-70% of information you wish you had_**
+
+### Ambiguity mindset
+
+![](IMAGES/Problemandsolutionspace.png)
+Double diamond diagram
+
+- Explore problem widely
+- Narrow problem statement
+- Generate multiple solution option
+- Refine to best specific solution
+
+### Example - Netflix - Qwikster
+
+Problem Space:
+
+![](IMAGES\ProblemSpace-Discover.png) ![](IMAGES\ProblemSpace-Define.png)
+
+SolutionSpace:
+![](IMAGES\SolutionSpace-Develop.png) ![](IMAGES\SolutionSpace-Deliver.png)
+
+### Key pitfalls:
+
+- Rushed trough discovery
+- Narrow Problem definition - from product perspective and not from customer perspective
+- Limited solution exploration
+- poor delivery planning
+
+### Example - Flipkart
+
+Discover:
+![](IMAGES\stage1.png)
+
+Define:
+![](IMAGES\stage2.png)
+
+Develop:
+![](IMAGES\stage3.png)
+
+Deliver:
+![](IMAGES\stage4.png)
