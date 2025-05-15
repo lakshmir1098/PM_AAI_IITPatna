@@ -271,5 +271,92 @@ Quote that captures attitude/ behaviour
 
 ## 12/05 Session - 5
 
-###
+### Why product fail?
+Lack of user reseach 
 
+Lack of product market fit (PMF)
+
+35% product failures are due to lack of user needs research
+
+Desirablity connects with user in VDF framework
+
+How well played out our user research is
+ 
+ 
+### Data collection Approaches: 
+#### Quantative research
+ * Surveys
+ * Web analytics - Eg. capture user login
+* Usage metrics - DAU / MAU / churn rate 
+
+#### Qualitative research
+* User diaries or interviews or personas
+
+* Focus groups -> in depth interviews in group belonging to same persona type
+
+* In-dept interviews
+
+### When to use what: 
+
+#### Choose quantitative research when            
+* numeric validation needed
+* measure precise quantitites
+* generalize findings to larger population
+* Measuring conversion rates
+* Tracking user engagement metrices
+* Pricing analysis
+* Performance benchmarking
+* Trend identification
+
+#### Choose qualification research when
+* Depth of understanding required
+* Explore complex behaviours
+* Understand emotional motivations
+* Nuanced user experiences
+* early staged problem exploration
+* new product concept validation
+* Understanding user pain point
+* Exploring unexpected user behaviours
+* Designing user personas
+* Service design challange
+
+								   
+CASE STUDY : Burbn to Instagram
+Understanding user's goal | understanding user research | indentifying pportunities -> 
+
+Key user problem discovered:
+1. Techincal Barrrier ->  user wanted beautiful phonts but lacked photography skill -> so filter came 
+
+2. Emotional need -> User wanted to express creativity and recieve validation -> likes and followers came
+
+3. Speed Issue -> Existing photo sharing tool were slow -> upload photo once and be available any thime anywhere via cloud
+
+4. Connecton desire -> share their lives with friends -> streaming or live videos 
+
+5. Contet chalenge -> mobile photos were of low quality -> again filter comes handy
+
+### Customer Journey Map:
+ A visual representation of how user or customer interacts with your product. It maps out steps user go through to complete a specific task.
+  Note : We have a template in Miro app for customer journey map.
+
+Awarness stage ->                  Consideration ->           Decision   ->           onboarding and use        ->    loyalty and advocate      
+
+### Persona
+CASE STUDY: Instagram user personas
+                           
+1. Visual Storyteller - who uses as visual diary and creative outlet
+2. Social Connector - uses to stay connected with friends
+3. Aspiring Influencer - seeks to build audience and monetize their content
+4. Brand/ Business Owner - for marketing and customer engagement
+5. Content Consumer - browse and consumes content
+6. Community seeker - looks for like -minded inviduals around specific interests or hobbies
+7. Visual Professional -  deisgners and artisits who showcase their work 
+
+### personas contains : 
+* Demographics: name, age, country
+* psychographics : values, interest, personality, goals and aspirations, lifestyle
+* behaviors : usage patterns (what user creates/posts), content preferences (what user consumes)
+* needs and motivations - goals : core needs, motivation in using the product
+* Pain points and frustuations : platform-related , usage-related
+ 
+---
