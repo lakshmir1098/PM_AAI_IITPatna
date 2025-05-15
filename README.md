@@ -216,40 +216,34 @@ Deliver:
 
 ## Product Thinking and customer insight
 
-###  JTBD Framework: - JOb To BE Done
+###  JTBD Framework: - Job To BE Done
  - Identify funtional, emotional and social aspects of the job
  - Ask: When I ____ (situaton), I want to ___ (job), so I can ___(outcome)
  - Design your product to excel at specific job
 
 ### User Research - Why bother?
 
-Avoid building on assumptions
-
-Discover unment needs and apin points
-
-Valildate ideas early, save time later
+- Avoid building on assumptions
+- Discover unment needs and apin points
+- Valildate ideas early, save time later
 
 #### How to do User research?
-1. Interviews - why
-   -  
-3. Surveys -  to see patterns
-4. Observations -  real world
 
 1. User Interviews - the why:
-- one-on-one communication
-- open ended question -> why , ask narrative question
-- listen > talk
-- 5 to 10 interviews 
+    - one-on-one communication
+    - open ended question -> why , ask narrative question
+    - listen > talk
+    - 5 to 10 interviews 
 
 2. Surveys -  to see patterns:
-- reach hundreds or thousands
-- Keep it short, general and clear
-- Do survey after Interviews
+    - reach hundreds or thousands
+    - Keep it short, general and clear
+    - Do survey after Interviews
   
 3. Observations/ Field studies - real world:
- - watch user in natural context
- - uncovers unspoken needs and workarounds
- - Eye opening
+    - watch user in natural context
+    - uncovers unspoken needs and workarounds
+    - Eye opening
 
 ### Creating personas:
 
