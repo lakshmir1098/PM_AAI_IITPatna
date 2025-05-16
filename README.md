@@ -339,7 +339,7 @@ Key user problem discovered:
  A visual representation of how user or customer interacts with your product. It maps out steps user go through to complete a specific task.
   Note : We have a template in Miro app for customer journey map.
 
-Awarness stage ->                  Consideration ->           Decision   ->           onboarding and use        ->    loyalty and advocate      
+Awarness stage ->               Consideration stage ->  Decision stage ->  onboarding and use stage ->  loyalty and advocate stage   
 
 ### Persona
 CASE STUDY: Instagram user personas
@@ -360,3 +360,65 @@ CASE STUDY: Instagram user personas
 * Pain points and frustuations : platform-related , usage-related
  
 ---
+## 13/05 Session - 6
+### Customer Journey map:
+A. Awareness 
+ * Introduces product to the potential customer
+ * Generates initial interest
+
+B. Consideration 
+ * Evaluating different product or services
+
+C. Decision
+ * Decides to buy and complete tansactions
+
+D. Onboarding/ Usage
+ * Customer using the product or service
+
+E. Advocacy
+ * Satisfied customer recoomends brand to others 
+
+
+### Questionnaire example for an interview
+Introduction (3-5 minutes)
+1. "Thanks for joining us today, Sophie. Could you briefly tell me about how Instagram fits into your creative life and
+content creation routine?"
+
+Current Content Creation Pattern (7-10 minutes)
+
+2. "Walk me through the last time you created and shared content on Instagram. What was that process like from idea to
+posting?"
+
+3. "How do you typically decide which format to use for your content—whether it should be a photo post, a Story, or
+something else?"
+
+Reels Experience (10-15 minutes)
+
+4. "I'd love to hear about your experience with Reels. Have you ever tried creating one? Could you tell me about that
+experience?"
+
+      Follow-ups: Explore barriers, comfort level, and specific friction points
+
+5. Task observation: "Could you show me how you would go about creating a Reel right now? I'd love to see your
+process and hear your thoughts as you go through it."
+
+      Note key friction points, hesitations, and workarounds
+
+Content & Technical Aspects (7-10 minutes)
+
+6. "What types of content do you think would work well as Reels for your personal style or
+aesthetic?"
+7. "What aspects of creating Reels feel most challenging compared to other content formats you're
+comfortable with?"
+
+Ideal Experience (3-5 minutes)
+
+8. "If Instagram could change one thing about Reels creation to make you want to create them more
+often, what would that be?"
+
+Closing (2-3 minutes)
+
+9. "Is there anything important about your experience with Instagram content creation that we
+haven't covered?"
+
+NOTE: Questions are important -  timing for each questions is important - we as PM not talking or interrupting user of their opinion is important(Don't ask something like -  why havent you noticed this feature of us so far?) - dont influence the user - Dont do confirmation bias - Dont ask leading question - each question 5 mins max (as, attention span for human is 30 to 35 mins, so max 45 mins of interview ) - prepare the questionnarie - ask same questions to all the personas/users 
