@@ -17,7 +17,7 @@
 - Understand user needs, pain points and jobs-to-be-done
 - Define value proposition before building the product not after building the product
 
-## How do user identify the product, how user learn to use it.
+## How do user identify the product, how user learn to use it?
 
 - CYCLE: launchin -> learning -> validating
 - Need - Data and Evidence
@@ -422,3 +422,79 @@ Closing (2-3 minutes)
 haven't covered?"
 
 NOTE: Questions are important -  timing for each questions is important - we as PM not talking or interrupting user of their opinion is important(Don't ask something like -  why havent you noticed this feature of us so far?) - dont influence the user - Dont do confirmation bias - Dont ask leading question - each question 5 mins max (as, attention span for human is 30 to 35 mins, so max 45 mins of interview ) - prepare the questionnarie - ask same questions to all the personas/users 
+
+---
+
+## 17/05 Session - 7
+## From Insight to Strategy
+
+### Problem -solution fit
+Evidence that your concept meanningfully solves a high-value user problem
+
+Happens before Product-Market Fit
+
+Avoids polishing solution that nobody needs
+
+Set foundation for credible roadmap
+
+
+Its about solving the right problem for right people in a right manner
+
+
+### Hardest part of Problem Framing
+1. Getting users to articulate the pain
+2. Prioritising among many pains
+3. Writing a concise problem statement
+4. Aligning stakeholders around one problem
+
+### Template for crafting sharp prblem statement 
+
+When __(user situation/ context)__
+i need to  __(goal)__
+but struggle because __(obstacle/ pain point)__
+leading to __(undesirable outcome)__
+
+### Signals you are near Prblem-Solution Fit
+* User should say ___"Yes! that's my issue"___
+* Early adopters accept prototype / concierge service
+* Strong pull signals : sign ups, wait-lists, pre-pays
+* clear metric improvements 
+
+
+Once we found solution that fits the problem well. Next step is to find how big is the impact of the solution. Its done by "_sizing the pie / sizing the opportunity_"
+
+### Why size the Pie?
+* Connect user value wth business value
+* Decide how big a bet idea deserves
+* Set investor / leadership expectations
+
+2 common approaches:
+1. Top-down : TAM -> SAM -> SOM
+2. Bottom-up : Price -> Customer -> Penetration
+
+#### Top-down approach:
+The total market is X billion dollars or X million people. We solve only a portion of that and we expect to capture a fraction of that portion
+
+This approach to often understamd the theoretical maximum
+
+TAM : Total Addressable Market -> everyone with the problem -> measured in annual revenue or potentail users.
+
+SAM : Servicable available market -> segemtn reachable by ou model
+
+SOM :  Servicable obtainable market -> share your aim to capture in 3-5 years
+
+#### Bottom-up approach:
+
+See what's actually achieveable with our plan
+
+### Minimum Viable Product (MVP)
+
+Smallest testable product that delivers core value to early adopters and maximises validated learning with least effort
+
+#### Value vs Complexity Matrix 
+The tool used for scoping MVP.
+
+![](IMAGES\MVPScopingMatrix.png)
+
+Here is an example of meal kit for this matrix
+![](IMAGES\MVPScopingMatrixUseCase.png)
