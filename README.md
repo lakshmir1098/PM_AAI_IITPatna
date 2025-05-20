@@ -87,8 +87,8 @@ samosas reach the shops on time.
 
 How it works:  
  The PM says, “Let’s create a new crunchy samosa everyone will love.”
-The PO says, “First, perfect the potato filling, then try cheese.”  
  The Developer cooks and tests the samosas.  
+The PO says, “First, perfect the potato filling, then try cheese.”  
  The Project Manager ensures the team has what they need & the samosas get delievered
 
 ---
@@ -498,3 +498,53 @@ The tool used for scoping MVP.
 
 Here is an example of meal kit for this matrix
 ![](IMAGES\MVPScopingMatrixUseCase.png)
+
+---
+
+## 19/05 Session - 8
+### Priortization frameworks - prioritize opportunity
+
+1. JTBD Framework
+
+    Identify core jobs
+    Example:
+    ![](IMAGES\JTBDTagTask.png)
+
+    Once identifying core Job then find "Job Importance vs Current Satisfaction Assessment"
+
+2. HEART framework
+
+    **H**appiness -> measures how satisfed users are with the product via surveys, feedback forms
+
+    **E**ngagement -> measures how actively users interact witht he product. 
+
+    **A**doption -> measures how quickly and widely users adopt new features or the product as a whole 
+
+    **R**etention -> measures how well the product retains users over time
+
+    **T**ask Success -> measures how easily users can complete tasks using the product
+
+3. RICE 
+  (Reach * Impact * Confidence) /
+    Effort 
+
+    Reach -> How many users will the product be visible to?
+
+    Impact -> How much better or worse does it makes for each user?
+
+    Confidence -> High Confidence | Medium Confidence | Low confidence 
+
+    Effort -> How much time it will take to develope it
+
+    Example - Instagram Reels:
+    Solution #1:
+    ![](IMAGES/RICEExample.png)
+    Soultion #2:
+    ![](IMAGES\RICEExample2.png)
+
+    From these example solution RICE score is greater for Solution 2 and thus prioritize solution #2 first.
+
+4. MoSCoW
+
+    Must Have - Should Have - Can Have - Won't Have
+    ![alt text](IMAGES\MoSCoW.png)
