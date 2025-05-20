@@ -502,7 +502,9 @@ Here is an example of meal kit for this matrix
 ---
 
 ## 19/05 Session - 8
-### Priortization frameworks - prioritize opportunity
+### Priortization frameworks 
+
+#### Opportunity prioritization
 
 1. JTBD Framework
 
@@ -523,6 +525,8 @@ Here is an example of meal kit for this matrix
     **R**etention -> measures how well the product retains users over time
 
     **T**ask Success -> measures how easily users can complete tasks using the product
+
+#### Solution Prioritization
 
 3. RICE 
   (Reach * Impact * Confidence) /
@@ -548,3 +552,45 @@ Here is an example of meal kit for this matrix
 
     Must Have - Should Have - Can Have - Won't Have
     ![alt text](IMAGES\MoSCoW.png)
+
+---
+
+## 20/05 Session - 9 
+
+5. Kano 
+![](IMAGES\Kano.png)
+User delight centric framework.
+
+MVP:
+
+Simple but usable version of a product that alllows a team to collect maximum validated learning with minimum effort.
+
+Before building MVP you should have answers for the following:
+1. Problem statement
+2. Target users
+3. Value Proposition
+4. Solution Hypothesis
+5. MVP Features
+6. Success Criteria
+
+USE CASE : Dropbox
+
+1. Problem : File syncing was complicated and unreliable
+
+    Vision : Simple file synchronizationacross devices
+    
+    Challenge : How to test without building the entire product?
+2. Target User : Tech professionals, Students
+3. Value Proposition : Seamless file access anywhere
+4. Solution Hypothesis : simple drag and drop syn will delight user
+5. MVP Features :  video demo
+6. Success Criteria : High signup conversion, +ve feedback
+
+KEY TAKEAWAY:
+* MVP's are about leaning and not launching
+* Choose right MVP tpe for specific needs
+* Focus on core value
+* Embrace Imperfection as strategy
+* Creatvity can beat conventional approaches
+
+---
