@@ -594,3 +594,34 @@ KEY TAKEAWAY:
 * Creatvity can beat conventional approaches
 
 ---
+## 24/05  Session - 10
+
+### Product RoadMap Best Practice:
+1. Align with vision and strategy - Every item should support product vision\
+2. Prioritize ruthlessly - DOnt overload. Focus on high-impact initiatives. Sometimes say "no" or "later"
+3. Keep it flexible - Treat roadmap as a living document. Adjust as circumstances changes
+4. Tailor to your auidence - may differ for executives, dev teams
+5. Communicate and get buy-in - share widely and explain why behind it.
+
+## Priority is Key
+
+#### 1. RICE Framework
+#### 2.  MoSCoW Framework
+#### 3. Value vs Effort Matrix:
+![](IMAGES\ValueEffortMat.png)
+
+### Applying Prioritization in Practice:
+1. Choose right method - Eg., Use RICE for data-driven consumer app, MoSCoW for client-driven project on a deadline
+2. Combine data with judgement - Frameworks provide structure, but also consider qqualitative insights
+3. Communicate rationale - share *why* behind priorites wth your team and stakeholders. Transparency build trust and understanding.
+4. Revisit and adapt - Pririties changes as you get new information or market changes
+
+### AI's role in PM:
+* Amplify analysis
+* Find patterns at scale
+* Free up PMs from labour -intensive task
+
+
+---
+
+## 26/5 Session - 11
