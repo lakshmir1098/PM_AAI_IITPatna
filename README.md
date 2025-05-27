@@ -603,7 +603,7 @@ KEY TAKEAWAY:
 4. Tailor to your auidence - may differ for executives, dev teams
 5. Communicate and get buy-in - share widely and explain why behind it.
 
-## Priority is Key
+### Priority is Key
 
 #### 1. RICE Framework
 #### 2.  MoSCoW Framework
@@ -625,3 +625,86 @@ KEY TAKEAWAY:
 ---
 
 ## 26/5 Session - 11
+
+### Product vision
+
+Summation of your product's mission and goal.
+
+A concise internal meassage that explains,
+
+ * why your product exists
+ * who it's for
+ * how it benefits your customers 
+ * what is's longterm objectives are
+
+Why -> Who -> What -> Time
+
+Goal -> User -> Differentiation -> Longterm aspiration
+
+#### How to write Product vision:
+* Be custnomer focused
+* Be a bit of stech, but not unrealistic
+* Show differentiation
+**NOTE:** Your product vision doesn't need to state each part explicitly, but should imply 
+
+![](IMAGES/ProductVision.png)
+
+### Requirement:
+1.  Functional - What the system should do 
+
+2. Non-Functional - How the system should behave 
+
+
+![](IMAGES\requirement.png)
+
+### Product Strategy
+
+Target User
+
+key Problem
+
+Differentiatior
+
+Initial market wegde
+
+Appraoch
+
+----
+
+## 27/5 Session - 12
+
+### Input Metric:
+Capture user action
+Example of input metric:
+* % of user who interacted
+* avg no  of clicks before add-to-cart
+* % of items liked or added to wishlist
+* % of user re-engaging 
+
+### Output metric:
+Capture business outcome
+Example of output metric:
+* Purchase per session (Conversion rate)
+* Avg. order value (AOV)
+* 30 day retention of users
+* NPS(% of promoters - % of critics) or CSAT from users
+ 
+NOTE:
+
+  NPS (Net Promoter Score) measures how likely users are to recommend your product on a scale of 0–10. It tells you overall satisfaction and loyalty.
+
+  CSAT (Customer Satisfaction Score) asks users how satisfied they are with a specific feature or experience, usually on a 1–5 scale. It helps you measure short-term satisfaction.
+
+### Product sense
+
+* Identify user needs & pain points
+* Prioritizing impactful features
+* Balancing simplicity with functionality
+* Making data-driven decision
+* Thinking from first principles**
+
+Example:
+![](IMAGES\ProductsenseNeeds.png)
+
+Product Sense: How to think
+![](IMAGES\HowToThink.png)
