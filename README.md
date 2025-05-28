@@ -497,6 +497,7 @@ The tool used for scoping MVP.
 ![](IMAGES/MVPScopingMatrix.png)
 
 Here is an example of meal kit for this matrix
+
 ![](IMAGES/MVPScopingMatrixUseCase.png)
 
 ---
