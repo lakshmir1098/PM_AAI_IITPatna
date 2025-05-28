@@ -266,7 +266,7 @@ behaviours & context
 
 Quote that captures attitude/ behaviour
 
-![](IMAGES\PersonaAnatomy.png)
+![](IMAGES/PersonaAnatomy.png)
 ---
 
 ## 12/05 Session - 5
@@ -494,10 +494,10 @@ Smallest testable product that delivers core value to early adopters and maximis
 #### Value vs Complexity Matrix 
 The tool used for scoping MVP.
 
-![](IMAGES\MVPScopingMatrix.png)
+![](IMAGES/MVPScopingMatrix.png)
 
 Here is an example of meal kit for this matrix
-![](IMAGES\MVPScopingMatrixUseCase.png)
+![](IMAGES/MVPScopingMatrixUseCase.png)
 
 ---
 
@@ -510,7 +510,7 @@ Here is an example of meal kit for this matrix
 
     Identify core jobs
     Example:
-    ![](IMAGES\JTBDTagTask.png)
+    ![](IMAGES/JTBDTagTask.png)
 
     Once identifying core Job then find "Job Importance vs Current Satisfaction Assessment"
 
@@ -544,21 +544,21 @@ Here is an example of meal kit for this matrix
     Solution #1:
     ![](IMAGES/RICEExample.png)
     Soultion #2:
-    ![](IMAGES\RICEExample2.png)
+    ![](IMAGES/RICEExample2.png)
 
     From these example solution RICE score is greater for Solution 2 and thus prioritize solution #2 first.
 
 4. MoSCoW
 
     Must Have - Should Have - Can Have - Won't Have
-    ![alt text](IMAGES\MoSCoW.png)
+    ![alt text](IMAGES/MoSCoW.png)
 
 ---
 
 ## 20/05 Session - 9 
 
 5. Kano 
-![](IMAGES\Kano.png)
+![](IMAGES/Kano.png)
 User delight centric framework.
 
 MVP:
@@ -608,7 +608,7 @@ KEY TAKEAWAY:
 #### 1. RICE Framework
 #### 2.  MoSCoW Framework
 #### 3. Value vs Effort Matrix:
-![](IMAGES\ValueEffortMat.png)
+![](IMAGES/ValueEffortMat.png)
 
 ### Applying Prioritization in Practice:
 1. Choose right method - Eg., Use RICE for data-driven consumer app, MoSCoW for client-driven project on a deadline
@@ -655,7 +655,7 @@ Goal -> User -> Differentiation -> Longterm aspiration
 2. Non-Functional - How the system should behave 
 
 
-![](IMAGES\requirement.png)
+![](IMAGES/requirement.png)
 
 ### Product Strategy
 
