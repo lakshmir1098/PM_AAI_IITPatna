@@ -597,7 +597,7 @@ KEY TAKEAWAY:
 ## 24/05  Session - 10
 
 ### Product RoadMap Best Practice:
-1. Align with vision and strategy - Every item should support product vision\
+1. Align with vision and strategy - Every item should support product vision
 2. Prioritize ruthlessly - DOnt overload. Focus on high-impact initiatives. Sometimes say "no" or "later"
 3. Keep it flexible - Treat roadmap as a living document. Adjust as circumstances changes
 4. Tailor to your auidence - may differ for executives, dev teams
@@ -701,10 +701,22 @@ NOTE:
 * Prioritizing impactful features
 * Balancing simplicity with functionality
 * Making data-driven decision
-* Thinking from first principles**
+* Thinking from first principles
 
 Example:
-![](IMAGES\ProductsenseNeeds.png)
+![](IMAGES/ProductsenseNeeds.png)
 
 Product Sense: How to think
-![](IMAGES\HowToThink.png)
+![](IMAGES/HowToThink.png)
+
+### How to continously improve product sense:
+* Conduct product teardowns - why was it built in this way?
+
+* Folllow leaders -  may some new letters (leeny's newsletter)
+
+* Stay close to user - engage in custome rsupport , community forums or bet tests for unfiltered insights
+
+* Embrace fist principle thinking and experimentation
+
+* Expand Perspective
+
