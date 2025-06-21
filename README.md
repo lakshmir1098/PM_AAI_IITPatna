@@ -1,5 +1,5 @@
 # PRODUCT AMANGEMENT AND AGENTIC AI BY IITPatna
-
+# MODULE 1
 ## 03/05 Session -1
 
 ### What a Product manager actually does?
@@ -720,4 +720,29 @@ Product Sense: How to think
 * Embrace fist principle thinking and experimentation
 
 * Expand Perspective
+
+---
+
+# MODULE 2
+
+## 5/6 Session - 1
+
+
+
+
+
+## 7/6 Seesion -3 
+### Elements of Design:
+1. Emphasis 
+2. Contrast
+3. Typography
+4. Motion and Movement
+5. Pattern and Repetition
+6. Hierarchy
+7. Alignment
+
+<h3>Gestalt prinicple </h3> human perception that describes how humans group similar elements, recognize patterns and simplify complex images when we percieve objects.
+
+DLS - Design Language System
+
 
